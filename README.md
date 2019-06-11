@@ -1,6 +1,6 @@
 # airflow-examples
 
-# Usage
+## Usage
 ```
 $ rm -vrf dags airflow.cfg restart-airflow.sh
 
